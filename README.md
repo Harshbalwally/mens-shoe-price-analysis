@@ -1,0 +1,3 @@
+| mens-shoe-price-analysis                                                  | Description                                                                                             | Skills Demonstrated                                   |
+| -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| **[Analysis of Men's Shoe Market Pricing](https://github.com/Harshbalwally/mens-shoe-price-analysis)**  | An exploratory data analysis of the men's shoe market to understand brand positioning and pricing strategies. | Pandas, Data Cleaning, Seaborn, Matplotlib, EDA       |
